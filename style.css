@@ -235,27 +235,6 @@ p {
   font-size: 23px;
 }
 
-#numHr {
-  width: 80px;
-  border-color: red;
-  height: 2px;
-  background-color: red;
-}
-
-.numHr1 {
-  margin-left: 15px;
-}
-
-.numHr2 {
-  margin-left: 148px;
-  margin-top: -12px;
-}
-
-.numHr3 {
-  margin-right: 40px;
-  margin-top: -12px;
-}
-
 .ot {
   font-size: 23px;
 }
